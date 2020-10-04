@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hello guys 👋, my name is Miguel Angel, I am 30 years old and I have been in the programming area for 6 years. Front-end lover and crazy about all javascript technologies.
 
+- 🔭 I’m currently working Xirectss Software Solutions and Leverit. 
+
+- 💬 Ask me about javascript
+
+- 😄 Pronombres: Peluche 🧔 
 <!--
 **devmiguelopz/devmiguelopz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
