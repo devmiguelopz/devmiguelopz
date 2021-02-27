@@ -4,7 +4,7 @@ My name is Miguel Angel, I am 30 years old and I have been in the programming ar
 
 Things about me:
 
-- 🔭 I’m currently working Xirectss Software Solutions and Leverit.
+- 🔭 I’m currently working Futbol Sites and Leverit.
 
 - 👪 I like to share my free time with my family
 
